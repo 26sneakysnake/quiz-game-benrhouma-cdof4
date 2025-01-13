@@ -28,6 +28,12 @@ questions = [
         "question": "Who is the author of '1984'?",
         "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.D. Salinger"],
         "correct": 0
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correct": 1
     }
+
 
 ]
