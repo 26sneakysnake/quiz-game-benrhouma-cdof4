@@ -1,10 +1,12 @@
 from questions import questions
 
 def display_welcome():
+    """Display welcome message with the game instructions to the player"""
     print("\n=== Welcome to the Quiz Game! ===")
     print("Answer the questions by entering the number of your choice (1-4)")
 
 def play_game():
+    """Main game loop handling questions and scoring"""
     score = 0
     display_welcome()
     
