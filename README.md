@@ -1,5 +1,7 @@
 # Quiz Game
-A console-based quiz game where players answer questions to win the game.
+This is a console-based quiz game focused on general knowledge. The objective is to answer as many questions correctly as possible to achieve the highest score.  
+Each question comes with four possible answers, and players must select the correct one to earn points.  
+Challenge your knowledge across various topics and aim for the top score!
 
 ## Installation
 
