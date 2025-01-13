@@ -30,7 +30,7 @@ def play_game():
         else:
             print(f"Wrong! The correct answer was: {q['options'][q['correct']]}")
             
-    print(f"\nGame Over! Your score: {score}/{len(questions)}"))
+    print(f"\nGame Over! Your score: {score}/{len(questions)}")
 
 if __name__ == "__main__":
     play_game()
